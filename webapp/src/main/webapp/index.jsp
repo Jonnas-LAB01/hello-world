@@ -2,7 +2,7 @@
   <div class="container">
     <h1>Hola Usuario este es prueba de cambios</h1>  
     <br>
-    <h1>New user Register for DevOps Learning</h1>
+    <h1>New user Register</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
